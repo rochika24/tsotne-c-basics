@@ -1,0 +1,14 @@
+C:\Users\globi\source\repos\tsotne\tsotne\bin\Debug\net8.0\tsotne.exe
+C:\Users\globi\source\repos\tsotne\tsotne\bin\Debug\net8.0\tsotne.deps.json
+C:\Users\globi\source\repos\tsotne\tsotne\bin\Debug\net8.0\tsotne.runtimeconfig.json
+C:\Users\globi\source\repos\tsotne\tsotne\bin\Debug\net8.0\tsotne.dll
+C:\Users\globi\source\repos\tsotne\tsotne\bin\Debug\net8.0\tsotne.pdb
+C:\Users\globi\source\repos\tsotne\tsotne\obj\Debug\net8.0\tsotne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\globi\source\repos\tsotne\tsotne\obj\Debug\net8.0\tsotne.AssemblyInfoInputs.cache
+C:\Users\globi\source\repos\tsotne\tsotne\obj\Debug\net8.0\tsotne.AssemblyInfo.cs
+C:\Users\globi\source\repos\tsotne\tsotne\obj\Debug\net8.0\tsotne.csproj.CoreCompileInputs.cache
+C:\Users\globi\source\repos\tsotne\tsotne\obj\Debug\net8.0\tsotne.dll
+C:\Users\globi\source\repos\tsotne\tsotne\obj\Debug\net8.0\refint\tsotne.dll
+C:\Users\globi\source\repos\tsotne\tsotne\obj\Debug\net8.0\tsotne.pdb
+C:\Users\globi\source\repos\tsotne\tsotne\obj\Debug\net8.0\tsotne.genruntimeconfig.cache
+C:\Users\globi\source\repos\tsotne\tsotne\obj\Debug\net8.0\ref\tsotne.dll
